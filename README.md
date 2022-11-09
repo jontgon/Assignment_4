@@ -13,4 +13,4 @@ Figure 1
 
 
 Figure 2
-<img src="images\f1Hist.jpg">
+<img src="images\f1Hist.JPG">
