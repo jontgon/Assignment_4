@@ -16,4 +16,7 @@ Figure 2
 <img src="images\f1Hist.JPG">
 
 
-Data source: https://docs.google.com/spreadsheets/d/1kT5JzZ1C7wARvmPYeCaeRLcFUKdBg-RJYMCuuv7e9vc/edit#gid=0
+Data sources: https://www.reddit.com/r/formula1/comments/nn2q6j/full_overtaking_data_for_the_2021_season_so_far/ 
+              https://docs.google.com/spreadsheets/d/1kT5JzZ1C7wARvmPYeCaeRLcFUKdBg-RJYMCuuv7e9vc/edit#gid=0
+
+Software used: Gephi, Excel, Tableau
