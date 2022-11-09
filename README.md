@@ -7,3 +7,4 @@ I conducted network analysis to observe trends in overtaking between teams and d
 A coeffecient of overtaking was derived by taking the sum of the weights of opponent overtakes and dividing that sum by the number of opponets overtaken. This average overtaking coeffecient was then compared to a similar calculation made between teammates. The results are diplayed in the histograph below(Figure 2). The teams are orderd in the histoprah based on their final standings in the 2021 F1 Constructors Competition with the highest scoring team on the left and the lowest scoring team on the right. Although the results are somewhat inconclusive, it is easy to see that teams that performerd poorly tended to have higher rates of temmate overtaking. 
 Figure 1
 <img src="Assignment_4/f1_final_net.jpg">
+
